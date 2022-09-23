@@ -1,2 +1,2 @@
 # hacking_programs
-scanners and the backdoors for ethical hacking training
+Example of scanners and the backdoors for ethical hacking
